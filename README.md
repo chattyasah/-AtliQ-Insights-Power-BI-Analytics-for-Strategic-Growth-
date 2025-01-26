@@ -10,3 +10,15 @@ This project delivers comprehensive analytics across core business functions, in
 - **Supply Chain**: Assessing forecast accuracy for inventory management.  
 
 With these interactive dashboards, AtliQ Hardware is poised to surpass its competitors and set a new standard in leveraging analytics for strategic growth.  
+
+## **Key Features**
+- Finance, Sales, Marketing, and Supply Chain dashboards designed for actionable insights.  
+- User-friendly visuals built using Power BI for clear and interactive analysis.  
+- Real-world business metrics and KPIs to aid decision-making.
+
+## **Technologies Used**  
+- **Power BI**: For data visualization and dashboard creation.  
+- **SQL**: For data extraction.  
+- **Excel/CSV**: For initial data cleaning and preprocessing.  
+- **DAX**: To create custom measures and calculations in Power BI
+- **Dax Studio**: For optimising Power BI performance
