@@ -75,4 +75,7 @@ Data modeling is the foundation of effective reporting, as all visuals rely on a
 
 For this project, we used the **Snowflake Schema** method, ensuring a clean, efficient, and scalable model for analysis and reporting.  
 
+![Screenshot (3)](https://github.com/user-attachments/assets/39e0ff95-5916-4395-ae42-3efe622cd669)
+
+
 
