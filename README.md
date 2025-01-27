@@ -67,5 +67,12 @@ The dataset used in this project is provided by **[Codebasics](https://codebasic
 - **gross_price**: Gross prices by product code.  
 - **manufacturing_cost**: Manufacturing costs by product code and year.  
 - **pre_invoice_deductions**: Pre-invoice deduction percentages by customer and year.  
-- **post_invoice_deductions**: Post-invoice and other deductions details.  
+- **post_invoice_deductions**: Post-invoice and other deductions details.
+
+## **Data Model**  
+
+Data modeling is the foundation of effective reporting, as all visuals rely on a well-structured model.  
+
+For this project, we used the **Snowflake Schema** method, ensuring a clean, efficient, and scalable model for analysis and reporting.  
+
 
