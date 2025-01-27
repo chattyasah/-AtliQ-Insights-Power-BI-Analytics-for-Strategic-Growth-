@@ -29,6 +29,9 @@ With these interactive dashboards, AtliQ Hardware is poised to surpass its compe
 
 A clear understanding of the dataset is crucial for effective analysis. This project leverages both dimension and fact tables:  
 
+### **Dataset Source**  
+The dataset used in this project is provided by **Codebasics** and is designed to simulate real-world business scenarios, making it ideal for analytics and decision-making purposes.
+
 ### **Dimension Tables**  
 - **dim_customer**:  
   - 27 markets (e.g., India, USA, Spain).  
