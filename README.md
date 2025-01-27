@@ -1,7 +1,9 @@
 # AtliQ Insights: Power BI Analytics for Strategic Growth
 ## **Project Overview**  
 
-AtliQ Hardware has experienced rapid growth in recent years, prompting the company to embrace data analytics as a key driver for competitive advantage. By implementing Power BI for the first time, AtliQ aims to transform raw data into actionable insights, empowering stakeholders to make informed, data-driven decisions.  
+AtliQ Hardware has rapidly expanded its global presence, selling computers and accessories through three channels: Retailers, Direct, and Distributors. However, a recent misstep in opening a store in America, driven by intuition and limited analysis, resulted in unforeseen losses. Meanwhile, competitors leverage advanced analytics to make data-driven decisions, putting AtliQ at a disadvantage.
+
+To stay competitive and thrive, AtliQ is building an analytics team to harness the power of data for strategic decision-making.  
 
 This project delivers comprehensive analytics across core business functions, including:  
 - **Finance**: Monitoring revenue, expenses, and profitability trends.  
