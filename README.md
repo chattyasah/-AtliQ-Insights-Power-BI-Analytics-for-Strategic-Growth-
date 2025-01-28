@@ -77,5 +77,7 @@ For this project, we used the **Snowflake Schema** method, ensuring a clean, eff
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/39e0ff95-5916-4395-ae42-3efe622cd669)
 
+## **Dashboard Showcase**
+
 
 
