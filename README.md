@@ -96,13 +96,13 @@ Below are the interactive Power BI dashboards designed to provide actionable ins
 ![sales view](https://github.com/user-attachments/assets/c950030b-48b8-4b0a-822b-510244ac0254)
 
 ### **Marketing Dashboard**  
-- Measures campaign effectiveness and ROI.  
+- Measures campaign effectiveness.  
 - Provides insights into customer engagement and market reach.
 
 ![marketing view](https://github.com/user-attachments/assets/bfe3582c-a801-412d-ac3a-c950e0a2b35b)
 
 ### **Supply Chain Dashboard**  
-- Monitors inventory levels, logistics, and supplier performance.  
+- Monitors inventory levels.  
 - Helps optimize operations and minimize bottlenecks.
 
 ![supply chain view](https://github.com/user-attachments/assets/8c272908-535a-4219-9b8d-90a9f330067a)
