@@ -78,6 +78,41 @@ For this project, we used the **Snowflake Schema** method, ensuring a clean, eff
 ![Screenshot (3)](https://github.com/user-attachments/assets/39e0ff95-5916-4395-ae42-3efe622cd669)
 
 ## **Dashboard Showcase**
+Below are the interactive Power BI dashboards designed to provide actionable insights across key business areas. Each dashboard presents a visual representation of critical metrics, enabling data-driven decision-making for AtliQ Hardware.  
+### **Homescreen Dashboard
+
+![homescreen](https://github.com/user-attachments/assets/b9c1d311-4bad-43b6-844b-47ae2492419d)
+
+### **Finance Dashboard**  
+- Tracks revenue, expenses, and profitability trends.  
+- Helps identify cost-saving opportunities and financial performance.
+  
+![Finance view](https://github.com/user-attachments/assets/0caef7ea-2791-49a3-a7fc-3777c9769b85)
+
+### **Sales Dashboard**  
+- Analyzes regional and customer-wise sales performance.  
+- Highlights top-performing products and sales trends.
+
+![sales view](https://github.com/user-attachments/assets/c950030b-48b8-4b0a-822b-510244ac0254)
+
+### **Marketing Dashboard**  
+- Measures campaign effectiveness and ROI.  
+- Provides insights into customer engagement and market reach.
+
+![marketing view](https://github.com/user-attachments/assets/bfe3582c-a801-412d-ac3a-c950e0a2b35b)
+
+### **Supply Chain Dashboard**  
+- Monitors inventory levels, logistics, and supplier performance.  
+- Helps optimize operations and minimize bottlenecks.
+
+![supply chain view](https://github.com/user-attachments/assets/8c272908-535a-4219-9b8d-90a9f330067a)
+
+### **Executive View**
+- Summarizes the entirety of the report in one dashboard
+  
+![executive view](https://github.com/user-attachments/assets/27372935-5820-4a8f-8173-d9117b4891e2)
+
+
 
 
 
