@@ -112,6 +112,26 @@ Below are the interactive Power BI dashboards designed to provide actionable ins
   
 ![executive view](https://github.com/user-attachments/assets/27372935-5820-4a8f-8173-d9117b4891e2)
 
+## 🔍 Insights
+
+### **Finance**
+- 📈 **Net Sales** increased by **353.5%**, but **Net Profit** declined by **110.8%**, indicating a focus on **sales expansion** over profitability.
+- 🎯 Sales fell **1.86% short of the target**, while net profit exceeded the target by **1.4%**, showing a **sales-driven** strategy.
+
+### **Marketing**
+- 💰 **Desktop, Notebook, and Peripherals** contribute the highest sales, but **all segments report negative net profit**.
+- 🌍 **APAC and North America** generate the most revenue but also incur the highest losses, suggesting **potential inefficiencies**.
+
+### **Supply Chain**
+- 📊 **Forecast accuracy improved to 81.17%** from 80.21% last year, signaling better **demand prediction**.
+- ⚠️ **Out-of-Stock (OOS) risks persist**, particularly in **Notebooks and Storage**, impacting availability.
+
+## ✅ Recommendations
+- 🔄 **Optimize marketing spend and cost management** to improve profitability while sustaining revenue growth.
+- 💡 **Reevaluate pricing strategies** to enhance margins without compromising sales.
+- 🚀 **Enhance demand forecasting models** and **streamline inventory management** to reduce OOS risks and improve supply chain efficiency.
+- 🌎 **Focus on high-performing regions** while addressing **profitability challenges** in key markets.
+
 
 
 
