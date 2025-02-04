@@ -78,7 +78,8 @@ For this project, we used the **Snowflake Schema** method, ensuring a clean, eff
 ![Screenshot (3)](https://github.com/user-attachments/assets/39e0ff95-5916-4395-ae42-3efe622cd669)
 
 ## **Dashboard Showcase**
-Below are the interactive Power BI dashboards designed to provide actionable insights across key business areas. Each dashboard presents a visual representation of critical metrics, enabling data-driven decision-making for AtliQ Hardware.  
+Below are the interactive Power BI dashboards designed to provide actionable insights across key business areas. Each dashboard presents a visual representation of critical metrics, enabling data-driven decision-making for AtliQ Hardware. **[view interactive dashboard](https://app.powerbi.com/reportEmbed?reportId=cd86b039-207c-4eb5-a4f9-8047b06f332e&autoAuth=true&ctid=ede29655-d097-42e4-bbb5-f38d427fbfb8)** 
+
 ### **Homescreen Dashboard**
 
 ![homescreen](https://github.com/user-attachments/assets/b9c1d311-4bad-43b6-844b-47ae2492419d)
